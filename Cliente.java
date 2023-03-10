@@ -1,6 +1,6 @@
 public class Cliente {
     private String nome;
-    private String cpf;
+    private String joaovictor;
     private int agencia;
     private double saldo;
 

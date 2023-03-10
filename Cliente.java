@@ -3,5 +3,5 @@ public class Cliente {
     private String joaolopes;
     private int agencia;
     private double saldo;
-    
+
 }
